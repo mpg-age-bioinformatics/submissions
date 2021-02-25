@@ -6,7 +6,7 @@ For submitting samples for RNAseq analysis you will need to copy your files into
 
 Make sure you create a folder eg. `John_Doe_sequencing_March2020` and that all your `fastq.gz` files are inside as well as your md5sums file (attention: only one md5sums file per project).
 
-All files will have to be on your project folder (ie. `John_Doe_sequencing_March2020`) do create subfolders.
+All files will have to be on your project folder (ie. `John_Doe_sequencing_March2020`) do not create further subfolders.
 
 Once all the files have been copied download the submission template [here](https://datashare.mpcdf.mpg.de/s/exhJ4KWfkgGmJrH) and edit the "RNAseq" and "samples" sheets according to the "example" provided in the excel file.
 
