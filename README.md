@@ -2,7 +2,7 @@
 
 ## RNAseq
 
-For submitting samples for RNAseq analysis make sure you will need to deposit your files in store-age.age.mpg.de/coworking/group_bit_all/automation. 
+For submitting samples for RNAseq analysis you will need to copy your files into store-age.age.mpg.de/coworking/group_bit_all/automation. 
 
 Make sure you create a folder eg. `John_Doe_sequencing_March2020` and that all your `fastq.gz` files are inside as well as your md5sums file (attention: only one md5sums file per project).
 
