@@ -8,7 +8,7 @@ Make sure you create a folder eg. `John_Doe_sequencing_March2020` and that all y
 
 All files will have to be on your project folder (ie. `John_Doe_sequencing_March2020`) do not create further subfolders.
 
-Once all the files have been copied download the submission template [here](https://datashare.mpcdf.mpg.de/s/exhJ4KWfkgGmJrH) and edit the "RNAseq" and "samples" sheets according to the "example" provided in the excel file.
+Once all the files have been copied, download the submission template [here](https://datashare.mpcdf.mpg.de/s/exhJ4KWfkgGmJrH) and edit the "RNAseq" and "samples" sheets according to the "example" provided in the excel file.
 
 If you have problems downloading your fastq.gz and md5sum files please contact the organization that sent you the files and ask them for support.
 
