@@ -26,6 +26,12 @@ Once all the files have been copied, download the submission template [here](htt
 
 ___
 
+## GEO/SRA
+
+If you want to analyse GEO/SRA data you can do this without downloading the respective files by giving in the SRA run number instead of the file name. If you are analysing paired end data and only one run number exists please give in the same run number in "Read 2". In the "Folder" and "md5sums" fields you will need to give in "SRA". An example can be found [here](https://youtu.be/KMtk3NCWVnI). 
+
+___
+
 If you have problems downloading your fastq.gz and md5sum files please contact the organization that sent you the files and ask them for support.
 
 If you have problems accessing store-age.age.mpg.de/coworking/group_bit_all/submissions please contact it@age.mpg.de. 
