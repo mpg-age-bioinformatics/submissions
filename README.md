@@ -22,7 +22,7 @@ Make sure you create a folder eg. `John_Doe_sequencing_March2020` and that all y
 
 All files will have to be on your project folder (ie. `John_Doe_sequencing_March2020`) do not create further subfolders.
 
-Once all the files have been copied, download the submission template [here](https://datashare.mpcdf.mpg.de/s/FBa6CZ9L86vJp56) and edit the "intronRet" and "samples" sheets according to the "example" provided in the excel file. 
+Once all the files have been copied, download the submission template [here](https://datashare.mpcdf.mpg.de/s/IxrSwl39WKtJ0Zw) and edit the "intronRet" and "samples" sheets according to the "example" provided in the excel file. 
 
 ___
 
