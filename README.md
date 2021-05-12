@@ -26,6 +26,25 @@ Once all the files have been copied, download the submission template [here](htt
 
 ___
 
+## Alternative Splicing (SAJR)
+
+For submitting samples for alternative splicing analysis you will need to copy your raw file into store-age.age.mpg.de/coworking/group_bit_all/automation. 
+
+Make sure you create a folder eg. `John_Doe_sequencing_March2020` and that all your `fastq.gz` files are inside as well as your md5sums file (attention: only one md5sums file per project).
+
+All files will have to be on your project folder (ie. `John_Doe_sequencing_March2020`) do not create further subfolders.
+
+Once all the files have been copied, download the submission template [here](https://datashare.mpcdf.mpg.de/s/QizTdN5XDw7exsB) and edit the "alternativeSplicing" and "samples" sheets according to the "example" provided in the excel file. 
+
+___
+
+## Files from tape storage
+
+For re-submitting samples already on tape please write "TAPE" in the field "Folder".  
+You will get a file with a list of used files with the uploaded results to check if the correct files where used.  
+
+___
+
 ## GEO/SRA
 
 If you want to analyse GEO/SRA data you can do this without downloading the respective files by giving in the SRA run number instead of the file name. If you are analysing paired end data and only one run number exists please give in the same run number in "Read 2". In the "Folder" and "md5sums" fields you will need to give in "SRA". An example can be found [here](https://youtu.be/KMtk3NCWVnI). 
