@@ -1,6 +1,70 @@
 # submissions
 
+
+## Alternative Splicing (SAJR)
+
+For submitting samples for alternative splicing analysis you will need to copy your raw file into store-age.age.mpg.de/coworking/group_bit_all/automation. 
+
+Make sure you create a folder eg. `John_Doe_sequencing_March2020` and that all your `fastq.gz` files are inside as well as your md5sums file (attention: only one md5sums file per project).
+
+All files will have to be on your project folder (ie. `John_Doe_sequencing_March2020`) do not create further subfolders.
+
+Once all the files have been copied, download the submission template [here](https://datashare.mpcdf.mpg.de/s/QizTdN5XDw7exsB) and edit the "alternativeSplicing" and "samples" sheets according to the "example" provided in the excel file. 
+
 ___
+
+## ATAC-Seq  and ChIP-Seq
+
+For submitting samples for ATAC-Seq or ChIP-Seq analysis you will need to copy your raw file into store-age.age.mpg.de/coworking/group_bit_all/automation. 
+
+Make sure you create a folder eg. `John_Doe_sequencing_March2020` and that all your `fastq.gz` files are inside as well as your md5sums file (attention: only one md5sums file per project).
+
+All files will have to be on your project folder (ie. `John_Doe_sequencing_March2020`) do not create further subfolders.
+
+Once all the files have been copied, download the submission template [here](https://datashare.mpcdf.mpg.de/s/dBCH7UJjuQ4POWS) and edit the "ATAC_seq" and "samples" sheets according to the "example" provided in the excel file. If you have input samples for normalizing your ChIP-seq samples, please provide the information in the "input" sheet.
+
+---
+
+## circRNA
+
+For submitting samples for circRNA analysis you will need to copy your raw file into store-age.age.mpg.de/coworking/group_bit_all/automation. 
+
+Make sure you create a folder eg. `John_Doe_sequencing_March2020` and that all your `fastq.gz` files are inside as well as your md5sums file (attention: only one md5sums file per project).
+
+All files will have to be on your project folder (ie. `John_Doe_sequencing_March2020`) do not create further subfolders.
+
+Once all the files have been copied, download the submission template [here](https://datashare.mpcdf.mpg.de/s/JG3vcXbC38YAaaA) and edit the "circRNA" and "samples" sheets according to the "example" provided in the excel file. 
+
+---
+
+## Intron retention
+
+For submitting samples for intron retention analysis you will need to copy your raw file into store-age.age.mpg.de/coworking/group_bit_all/automation. 
+
+Make sure you create a folder eg. `John_Doe_sequencing_March2020` and that all your `fastq.gz` files are inside as well as your md5sums file (attention: only one md5sums file per project).
+
+All files will have to be on your project folder (ie. `John_Doe_sequencing_March2020`) do not create further subfolders.
+
+Once all the files have been copied, download the submission template [here](https://datashare.mpcdf.mpg.de/s/IxrSwl39WKtJ0Zw) and edit the "intronRet" and "samples" sheets according to the "example" provided in the excel file. 
+
+
+---
+
+## miRNA
+
+___
+
+## Ribo Sequencing
+
+For submitting samples for Ribo-Seq analysis you will need to copy your raw file into store-age.age.mpg.de/coworking/group_bit_all/automation. 
+
+Make sure you create a folder eg. `John_Doe_sequencing_March2020` and that all your `fastq.gz` files are inside as well as your md5sums file (attention: only one md5sums file per project).
+
+All files will have to be on your project folder (ie. `John_Doe_sequencing_March2020`) do not create further subfolders.
+
+Once all the files have been copied, download the submission template [here](https://datashare.mpcdf.mpg.de/s/peNmwgGYuy43GYA) and edit the "riboseq" and "samples" sheets according to the "example" provided in the excel file. If you have total RNA samples for normalizing your Ribo-Seq samples, please provide the information in the "matching" sheet.
+
+---
 
 ## RNAseq
 
@@ -14,29 +78,19 @@ Once all the files have been copied, download the submission template [here](htt
 
 ___
 
-## Intron retention
+## Variant Calling
 
-For submitting samples for intron retention analysis you will need to copy your raw file into store-age.age.mpg.de/coworking/group_bit_all/automation. 
-
-Make sure you create a folder eg. `John_Doe_sequencing_March2020` and that all your `fastq.gz` files are inside as well as your md5sums file (attention: only one md5sums file per project).
-
-All files will have to be on your project folder (ie. `John_Doe_sequencing_March2020`) do not create further subfolders.
-
-Once all the files have been copied, download the submission template [here](https://datashare.mpcdf.mpg.de/s/IxrSwl39WKtJ0Zw) and edit the "intronRet" and "samples" sheets according to the "example" provided in the excel file. 
-
-___
-
-## Alternative Splicing (SAJR)
-
-For submitting samples for alternative splicing analysis you will need to copy your raw file into store-age.age.mpg.de/coworking/group_bit_all/automation. 
+For submitting samples for variant calling analysis you will need to copy your raw file into store-age.age.mpg.de/coworking/group_bit_all/automation. 
 
 Make sure you create a folder eg. `John_Doe_sequencing_March2020` and that all your `fastq.gz` files are inside as well as your md5sums file (attention: only one md5sums file per project).
 
 All files will have to be on your project folder (ie. `John_Doe_sequencing_March2020`) do not create further subfolders.
 
-Once all the files have been copied, download the submission template [here](https://datashare.mpcdf.mpg.de/s/QizTdN5XDw7exsB) and edit the "alternativeSplicing" and "samples" sheets according to the "example" provided in the excel file. 
+If you have exome sequencing please provide a bed file with the targeted exons [example](https://datashare.mpcdf.mpg.de/s/XWTiVZ5RQQZmkVK)
 
-___
+Once all the files have been copied, download the submission template [here](https://datashare.mpcdf.mpg.de/s/880qluG3WOY7CJc) and edit the "variantCalling" and "samples" sheets according to the "example" provided in the excel file. If you have a WT for normalization please specify the respecive sample in the "samples" sheet according to the "example".
+
+---
 
 ## Files from tape storage
 
