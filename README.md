@@ -93,6 +93,20 @@ Once all the files have been copied, download the submission template [here](htt
 
 ---
 
+## 16S Microbial Sequencing
+
+For submitting samples for 16S microbial sequencing analysis you will need to copy your raw files into store-age.age.mpg.de/coworking/group_bit_all/automation. 
+
+Make sure you create a folder eg. `John_Doe_sequencing_March2020` and that all your `fastq.gz` files are inside as well as your md5sums file (attention: only one md5sums file per project).
+
+All files will have to be on your project folder (ie. `John_Doe_sequencing_March2020`) do not create further subfolders.
+
+Once all the files have been copied, download the submission template [here](https://datashare.mpcdf.mpg.de/s/VVyDUCa1oOIaBxl) and edit the "16S" and "samples" sheets according to the "example" provided in the excel file.
+
+**Note reads are annotated using Silva database**
+
+---
+
 ## Files from tape storage
 
 For re-submitting samples already on tape please write "TAPE" in the field "Folder".  
