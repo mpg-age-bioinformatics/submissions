@@ -128,6 +128,26 @@ Once all the files have been copied, download the submission template [here](htt
 
 ---
 
+## GSEA
+
+For submitting samples for Gene Set Enrichment Analysis (GSEA) you can use the submission sheet directly. 
+
+Download the submission template [here](https://datashare.mpcdf.mpg.de/s/SlYAbmrzMZ52ayw) and edit the "GSEA", "samples", "ExpMatrix" and "GeneSets" sheets according to the "example" provided in the excel file.
+
+**NOTE**
+
+Edit the "GeneSets" sheet only if you wish to perform the analysis on custom gene sets. The default database used for gene sets is `msigdb.v7.4.symbols`. You can read more about the database [here](http://www.gsea-msigdb.org/gsea/downloads.jsp)
+
+---
+
+## Motif Enrichment Analysis
+
+For submitting samples for motif enrichment analysis you can use the submission sheet directly. 
+
+Download the submission template [here](https://datashare.mpcdf.mpg.de/s/3zv2bCFY42NJdlI) and edit the "motif_enrichment" and "samples" sheets according to the "example" provided in the excel file.
+
+---
+
 ## Files from tape storage
 
 For re-submitting samples already on tape please write "TAPE" in the field "Folder".  
