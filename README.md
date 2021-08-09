@@ -136,7 +136,7 @@ Download the submission template [here](https://datashare.mpcdf.mpg.de/s/SlYAbmr
 
 **NOTE**
 
-Edit the "GeneSets" sheet only if you wish to perform the analysis on custom gene sets. The default database used for gene sets is `msigdb.v7.4.symbols`. You can read more about the database [here](http://www.gsea-msigdb.org/gsea/downloads.jsp)
+Edit the "GeneSets" sheet only if you wish to perform the analysis on custom gene sets. The default database used for gene sets is `msigdb.v7.4.symbols`. You can read more about the database [here](http://www.gsea-msigdb.org/gsea/downloads.jsp).
 
 ---
 
